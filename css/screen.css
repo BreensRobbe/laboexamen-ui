@@ -3,20 +3,17 @@
 \*------------------------------------*/
 @font-face {
     font-family: "Inter-Bold";
-    font-weight: 200;
-    src: url("../fonts/ClearSans-Light-webfont.woff") format("woff2"), 
+    src: url("../fonts/Inter-Bold.woff2") format("woff2"), 
 }
 
 @font-face {
     font-family: "Inter-Regular";
-    font-weight: 400;
-    src: url("../fonts/ClearSans-Medium-webfont.woff") format("woff2"), 
+    src: url("../fonts/Inter-Regular.woff2") format("woff2"), 
 }
 
 @font-face {
     font-family: "Inter-SemiBold";
-    font-weight: 600;
-    src: url("../fonts/ClearSans-Regular-webfont.woff") format("woff2"), 
+    src: url("../fonts/Inter-SemiBold.woff2") format("woff2"), 
 }
 
 
@@ -33,7 +30,7 @@
 html {
     font-size: 16px;
     line-height: 1.5;
-    font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
+    font-family: "Inter-Regular", Helvetica, arial, sans-serif;
     color: #111;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
